@@ -27,15 +27,15 @@ Test | Test
 ### Aktorzy podstawowi
 Aktor | Cele
 --- | ---
-Użytkownik | Wyszukanie przepisu
- | Porównanie przepisów
- | Tworzenie jadłospisu (forma koszyku*)
- | Generowanie listy zakupów (forma koszyku*)
- | Dodanie przepisu
-Moderator | Ocena oczekujących treści
-Administrator | Administracja serwisem
- | Zarządzanie bezpieczeństwem serwisu
- | Konserwacja serwisu / naprawa usterek
+Użytkownik | Wyszukanie przepisu 
+&nbsp; |Porównanie przepisów 
+&nbsp; |Tworzenie jadłospisu (forma koszyku*) 
+&nbsp; | Generowanie listy zakupów (forma koszyku*) 
+&nbsp; | Dodanie przepisu
+Moderator | Ocena oczekujących treści 
+Administrator | Administracja serwisem 
+&nbsp; | Zarządzanie bezpieczeństwem serwisu 
+&nbsp; | Konserwacja serwisu / naprawa usterek 
 
 ### Aktorzy wspomagający
 Aktor | Cele
@@ -52,9 +52,9 @@ Test | Test
 Kategoria | IN | OUT
 --- | --- | ---
 Język systemu | Polski | Pozostałe
- | Angielski |
- | Niemiecki | 
- | Ukraiński | 
+&nbsp; | Angielski | 
+&nbsp; | Niemiecki | 
+&nbsp; | Ukraiński | 
 
 ## Słownik projektowy
 Pojęcie | Definicja
