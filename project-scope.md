@@ -3,35 +3,30 @@
 ## Krótki opis projektu
 Celem projektu jest stworzenie serwisu internetowego o roboczej nazwie **recipe-search** zawierającego bazę przepisów kulinarnych. Główną funkcjonalnością serwisu będzie wyszukiwanie przepisów na podstawie wybranych przez Użytkownika produktów, które w teorii Użytkownik posiada. Zachowana zostanie również standardowa możliwość wyszukiwania przepisów po nazwie.  
 Ponadto Użytkownik będzie mógł znaleźć przepis przeglądając zdefiniowane wcześniej kategorie dań. Z poziomu wyników wyszukiwania oraz z konkretnej strony przepisu Użytkownik będzie miał możliwość skorzystania z porównywarki przepisów. W serwisie dostępny będzie również prosty kalkulator BMI (Body Mass Index).  
-Dla Użytkowników udostępniony zostanie system rejestracji oraz logowania. Zalogowany Użytkownik będzie mógł komentować przeglądane przepisy oraz dodawać własne (wymagana będzie weryfikacja treści przez Administratora). Ponadto Użytkownik będzie miał możliwość stworzyć własny Jadłospis z dodanych do niego przepisów.
+Dla Użytkowników udostępniony zostanie system rejestracji oraz logowania. Zalogowany Użytkownik będzie mógł komentować przeglądane przepisy oraz dodawać własne (wymagana będzie weryfikacja treści przez Administratora). Użytkownik będzie miał także możliwość stworzenia własnego Jadłospisu z wcześniej dodanych do niego przepisów.
 
 ## Aktorzy systemu i ich opis
 
 ### Aktorzy podstawowi
-Aktor | Opis
------ | ----
-Użytkownik | Osoba korzystająca z usług udostępnianych przez serwis
-Moderator | Osoba zajmująca się akceptowaniem dodawanych treści przez użytkowników
-Administrator | Osoba zajmująca się administracją, konserwacją i opieką techniczną serwisu
+| Aktor | Opis |
+|-------|------|
+| Użytkownik | Osoba korzystająca z usług udostępnianych przez serwis |
+| Moderator | Osoba zajmująca się akceptowaniem dodawanych treści przez użytkowników |
+| Administrator | Osoba zajmująca się administracją, konserwacją i opieką techniczną serwisu |
 
 ### Aktorzy wspomagający
-Aktor | Opis
---- | ---
-Firma hostingowa | Udostępnianie usług hostingowych
-
-### Aktorzy zewnętrzni
-Aktor | Opis
---- | ---
-Test | Test
+| Aktor | Opis |
+|-------|------|
+| Firma hostingowa | Udostępnienie usług hostingowych |
 
 ## Tabela aktor-cel
 
 ### Aktorzy podstawowi
-Aktor | Cele
---- | ---
-Użytkownik | Wyszukanie przepisu 
-&nbsp; |Porównanie przepisów 
-&nbsp; |Tworzenie jadłospisu (forma koszyku*) 
+| Aktor | Cele |
+|-------|------|
+| Użytkownik | Wyszukanie przepisu | 
+| | Porównanie przepisów |
+| | Tworzenie jadłospisu (forma koszyku*) |
 &nbsp; | Generowanie listy zakupów (forma koszyku*) 
 &nbsp; | Dodanie przepisu
 Moderator | Ocena oczekujących treści 
@@ -70,6 +65,7 @@ Lista zakupów |
 
 ## Skrócone przypadki użycia (use cases)
 ### UC1: Wyszukanie przepisu - Użytkownik
+Użytkownik urchamia serwis poprzez podanie poprawnego adresu URL w przeglądarce.
 Klient podchodzi do biletomatu celem zakupu biletu. Na panelu głównym klient wybiera rodzaj biletu - czas ważności biletu oraz opcjonalnie ulgę, którą może poświadczyć. W kolejnym kroku klient wybiera strefę/strefy obowiązywania biletu. System wyświetla kwotę do zapłaty. Następnie klient wybiera formę płatności i płaci określoną kwotę. Płatność jest weryfikowana. Po akceptacji następuje drukowanie biletu oraz potwierdzenia płatności.
 
 ### UC2: Porównanie przepisu - Użytkownik
