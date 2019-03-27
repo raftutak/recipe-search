@@ -35,9 +35,8 @@ Dla Użytkowników udostępniony zostanie system rejestracji oraz logowania. Zal
 | | Dodawanie przepisu |
 | | Komentowanie przepisu |
 | | Tworzenie jadłospisu |
-| Administrator | Administracja serwisem |
+| Administrator | Administracja/konserwacja serwisu, naprawa usterek |
 || Zarządzanie bezpieczeństem serwisu ||
-|| Konserwacja serwisu / naprawa usterek ||
 || Ocena oczekujących treści ||
 
 ### Aktorzy wspomagający
@@ -93,4 +92,8 @@ Użytkownik urchamia serwis poprzez podanie poprawnego adresu URL w przeglądarc
 
 ### UC10: Tworzenie jadłospisu
 
-### UC11: Ocena oczekujących treści - Administrator
+### UC11: Administracja/konserwacja serwisu, naprawa usterek
+
+### UC12: Zarządzanie bezpieczeństwem serwisu
+
+### UC14: Ocena oczekujących treści - Administrator
