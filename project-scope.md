@@ -1,14 +1,15 @@
 # Zakres systemu
 
 ## Krótki opis projektu
-Celem projektu jest stworzenie serwisu internetowego o roboczej nazwie **recipe-search** zawierającego bazę przepisów kulinarnych. Główną funkcjonalnością serwisu będzie wyszukiwanie przepisów na podstawie wybranych przez Użytkownika produktów, które w teorii Użytkownik posiada. Zachowana zostanie również standardowa możliwość wyszukiwania przepisów po nazwie. Serwis umożliwiać będzie utworzenie jadłospisu z podanych przepisów.
-Celem projektu jest serwis internetowy z przepisami kulinarnymi, który pozwalać będzie na wyszukanie przepisów kulinarnych na podstawie podanych przez użytkownika produktów. System udostępniać będzie możliwość porównania wyszukanych przepisów po ich cechach (na zimno czy ciepło, wartości odżywcze, czas przygotowania etc.) i z wybranych przepisów utworzyć jadłospis na podany dzień. Następnie, system generuje listę zakupów oraz pozwala wysłać tę listę na maila, SMS lub wydrukować. 
+Celem projektu jest stworzenie serwisu internetowego o roboczej nazwie **recipe-search** zawierającego bazę przepisów kulinarnych. Główną funkcjonalnością serwisu będzie wyszukiwanie przepisów na podstawie wybranych przez Użytkownika produktów, które w teorii Użytkownik posiada. Zachowana zostanie również standardowa możliwość wyszukiwania przepisów po nazwie.  
+Ponadto Użytkownik będzie mógł znaleźć przepis przeglądając zdefiniowane wcześniej kategorie dań. Z poziomu wyników wyszukiwania oraz z konkretnej strony przepisu Użytkownik będzie miał możliwość skorzystania z porównywarki przepisów. W serwisie dostępny będzie również prosty kalkulator BMI (Body Mass Index).  
+Dla Użytkowników udostępniony zostanie system rejestracji oraz logowania. Zalogowany Użytkownik będzie mógł komentować przeglądane przepisy oraz dodawać własne (wymagana będzie weryfikacja treści przez Administratora). Ponadto Użytkownik będzie miał możliwość stworzyć własny Jadłospis z dodanych do niego przepisów.
 
 ## Aktorzy systemu i ich opis
 
 ### Aktorzy podstawowi
 Aktor | Opis
---- | ---
+----- | ----
 Użytkownik | Osoba korzystająca z usług udostępnianych przez serwis
 Moderator | Osoba zajmująca się akceptowaniem dodawanych treści przez użytkowników
 Administrator | Osoba zajmująca się administracją, konserwacją i opieką techniczną serwisu
