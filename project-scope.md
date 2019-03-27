@@ -61,6 +61,9 @@ Dla Użytkowników udostępniony zostanie system rejestracji oraz logowania. Zal
 | Porównywarka | |
 | Jadłospis | |
 | Lista zakupów | |
+| Strona główna serwisu | |
+| Produkt | |
+| Danie | |
 
 ## Skrócone przypadki użycia (use cases)
 ### UC1: Wyszukiwanie przepisu na podstawie wybranych produktów - Użytkownik
