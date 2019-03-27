@@ -47,10 +47,16 @@ Dla Użytkowników udostępniony zostanie system rejestracji oraz logowania. Zal
 ## Lista IN-OUT
 | Kategoria | IN | OUT |
 | - | - | - |
+| Typ aplikacji | Webowa | Mobilna |
 | Język systemu | Polski | Pozostałe |
-| | Angielski | |
-| | Niemiecki | |
-| | Ukraiński | |
+| Baza danych | Dynamiczna | Statyczna |
+| Wyszukiwanie | Na podstawie produktów | Pozostałe |
+| | Po nazwie przepisu | |
+| | Po kategoriach | |
+| Porównywarka | 2 przepisy | Więcej niż 2 przepisy |
+| Kalkulator | BMI | BMR |
+| Jadłospis | Do 6 posiłków | Więcej niż 6 posiłków |
+| Komentarze i oceny | Użytkownik zalogowany | Użytkownik niezalogowany |
 
 ## Słownik projektowy
 | Pojęcie | Definicja |
