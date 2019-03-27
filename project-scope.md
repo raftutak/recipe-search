@@ -1,6 +1,7 @@
 # Zakres systemu
 
 ## Krótki opis projektu
+Celem projektu jest stworzenie serwisu internetowego o roboczej nazwie **recipe-search** zawierającego bazę przepisów kulinarnych. Główną funkcjonalnością serwisu będzie wyszukiwanie przepisów na podstawie wybranych przez Użytkownika produktów, które w teorii Użytkownik posiada. Zachowana zostanie również standardowa możliwość wyszukiwania przepisów po nazwie. Serwis umożliwiać będzie utworzenie jadłospisu z podanych przepisów.
 Celem projektu jest serwis internetowy z przepisami kulinarnymi, który pozwalać będzie na wyszukanie przepisów kulinarnych na podstawie podanych przez użytkownika produktów. System udostępniać będzie możliwość porównania wyszukanych przepisów po ich cechach (na zimno czy ciepło, wartości odżywcze, czas przygotowania etc.) i z wybranych przepisów utworzyć jadłospis na podany dzień. Następnie, system generuje listę zakupów oraz pozwala wysłać tę listę na maila, SMS lub wydrukować. 
 
 ## Aktorzy systemu i ich opis
