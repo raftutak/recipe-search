@@ -35,7 +35,10 @@ Dla Użytkowników udostępniony zostanie system rejestracji oraz logowania. Zal
 | | Dodawanie przepisu |
 | | Komentowanie przepisu |
 | | Tworzenie jadłospisu |
-| Administrator | Ocena oczekujących treści |
+| Administrator | Administracja serwisem |
+|| Zarządzanie bezpieczeństem serwisu ||
+|| Konserwacja serwisu / naprawa usterek ||
+|| Ocena oczekujących treści ||
 
 ### Aktorzy wspomagający
 | Aktor | Cele |
