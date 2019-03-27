@@ -2,7 +2,9 @@
 
 ## Krótki opis projektu
 Celem projektu jest stworzenie serwisu internetowego o roboczej nazwie **recipe-search** zawierającego bazę przepisów kulinarnych. Główną funkcjonalnością serwisu będzie wyszukiwanie przepisów na podstawie wybranych przez Użytkownika produktów, które w teorii Użytkownik posiada. Zachowana zostanie również standardowa możliwość wyszukiwania przepisów po nazwie.  
+  
 Ponadto Użytkownik będzie mógł znaleźć przepis przeglądając zdefiniowane wcześniej kategorie dań. Z poziomu wyników wyszukiwania oraz z konkretnej strony przepisu Użytkownik będzie miał możliwość skorzystania z porównywarki przepisów. W serwisie dostępny będzie również prosty kalkulator BMI (Body Mass Index).  
+  
 Dla Użytkowników udostępniony zostanie system rejestracji oraz logowania. Zalogowany Użytkownik będzie mógł komentować przeglądane przepisy oraz dodawać własne (wymagana będzie weryfikacja treści przez Administratora). Użytkownik będzie miał także możliwość stworzenia własnego Jadłospisu z wcześniej dodanych do niego przepisów.
 
 ## Aktorzy systemu i ich opis
