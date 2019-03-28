@@ -61,15 +61,15 @@ Dla Użytkowników udostępniony zostanie system rejestracji oraz logowania. Zal
 ## Słownik projektowy
 | Pojęcie | Definicja |
 | - | - |
-| Przepis | |
-| Serwis | |
-| Wyszukiwarka | |
-| Porównywarka | |
-| Jadłospis | |
-| Lista zakupów | |
-| Strona główna serwisu | |
-| Produkt | |
-| Danie | |
+| Przepis | Uporządkowana lista czynności oraz potrzebnych składników pozwalająca na przygotowanie posiłku |
+| Serwis | Grupa powiązanych ze sobą interaktywnych stron internetowych o tematyce kulinarnej |
+| Wyszukiwarka | Narzędzie pozwalające na przeszukiwanie serwisu pod kątem oczekiwanej treści |
+| Porównywarka | Narzędzie pozwalające na porównanie ze sobą dwóch przepisów |
+| Jadłospis | Lista posiłków na dany dzień |
+| Lista zakupów | Uporządkowana lista produktów, które trzeba zakupić w celu przygotowania dania |
+| Strona główna serwisu | Startowa strona internetowa pełniąca funkcję reprezentacyjną serwisu. Znajdują się na niej odniesienia do kluczowych funkcjonalności serwisu. |
+| Produkt | Wszystko, co jest przeznaczone do spożycia lub przygotowania potraw |
+| Danie | Potrawa, posiłek, powstały w wyniku przygotowania przy pomocy przepisu |
 
 ## Skrócone przypadki użycia (use cases)
 ### UC1: Wyszukiwanie przepisu na podstawie wybranych produktów - Użytkownik
