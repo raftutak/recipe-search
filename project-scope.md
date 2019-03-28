@@ -68,7 +68,7 @@ Dla Użytkowników udostępniony zostanie system rejestracji oraz logowania. Zal
 | Kategoria | Uporządkowany zbiór zasobów zebranych odpowiadających konkretnym parametrom wyboru. |
 | Konto Użytkownika | Miejsce Użytkownia w Serwisie pozwalające na optymalizowanie treści umieszczanych w Serwisie do własnych preferencji. | 
 | Lista zakupów | Uporządkowana lista produktów, które trzeba zakupić w celu przygotowania dania. |
-| Logowanie | Czynność, którą musi wykonać Użytkownik, aby otrzymać pełne prawa do korzystania w pełni ze wszystkich funkcjonalności Serwisu. | 
+| Logowanie do serwisu | Czynność, którą musi wykonać Użytkownik, aby otrzymać pełne prawa do korzystania w pełni ze wszystkich funkcjonalności Serwisu. | 
 | Porównywarka | Narzędzie pozwalające na porównanie ze sobą dwóch przepisów. |
 | Produkt | Wszystko, co jest przeznaczone do spożycia lub przygotowania potraw. |
 | Przepis | Uporządkowana lista czynności oraz potrzebnych składników pozwalająca na przygotowanie posiłku. |
