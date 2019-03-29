@@ -61,21 +61,21 @@ Dla Użytkowników udostępniony zostanie system rejestracji oraz logowania. Zal
 ## Słownik projektowy
 | Pojęcie | Definicja |
 | - | - |
-| BMI | Body Mass Index, czyli Wskaźnik Masy Ciała. Jest to współczynnik powstały przez podzielenie masy ciała podanej w kilogramach przez kwadrat wysokości podanej w metrach. |
-| Danie | Potrawa, posiłek, powstały w wyniku przygotowania przy pomocy przepisu. |
-| Jadłospis | Lista posiłków na dany dzień. |
-| Kalkulator BMI | Narzędzie pozwalające na obliczenie wskaźnika BMI swojego ciała na podstawie wpisanych wartości: wzrostu oraz wagi. |
-| Kategoria | Uporządkowany zbiór zasobów zebranych odpowiadających konkretnym parametrom wyboru. |
-| Konto Użytkownika | Miejsce Użytkownia w Serwisie pozwalające na optymalizowanie treści umieszczanych w Serwisie do własnych preferencji. | 
-| Lista zakupów | Uporządkowana lista produktów, które trzeba zakupić w celu przygotowania dania. |
-| Logowanie do serwisu | Czynność, którą musi wykonać Użytkownik, aby otrzymać pełne prawa do korzystania w pełni ze wszystkich funkcjonalności Serwisu. | 
-| Porównywarka | Narzędzie pozwalające na porównanie ze sobą dwóch przepisów. |
-| Produkt | Wszystko, co jest przeznaczone do spożycia lub przygotowania potraw. |
-| Przepis | Uporządkowana lista czynności oraz potrzebnych składników pozwalająca na przygotowanie posiłku. |
-| Serwis | Grupa powiązanych ze sobą interaktywnych stron internetowych o tematyce kulinarnej. |
-| Rejestracja w serwisie | Inaczej założenie Konta Użytkownika, które przechowuje podane w formularzu rejestracyjnym dane oraz preferencje Użytkownika określone w trakcie korzystania z Serwisu. |
-| Strona główna serwisu | Startowa strona internetowa pełniąca funkcję reprezentacyjną serwisu. Znajdują się na niej odniesienia do kluczowych funkcjonalności serwisu. |
-| Wyszukiwarka | Narzędzie pozwalające na przeszukiwanie serwisu pod kątem oczekiwanej treści. |
+| BMI | Body Mass Index, czyli Wskaźnik Masy Ciała. Jest to współczynnik powstały przez podzielenie masy ciała podanej w kilogramach przez kwadrat wysokości podanej w metrach |
+| Danie | Potrawa, posiłek, powstały w wyniku przygotowania przy pomocy przepisu |
+| Jadłospis | Lista posiłków na dany dzień |
+| Kalkulator BMI | Narzędzie pozwalające na obliczenie wskaźnika BMI swojego ciała na podstawie wpisanych wartości: wzrostu oraz wagi |
+| Kategoria | Uporządkowany, nazwany zbiór zebranych zasobów odpowiadających konkretnym parametrom |
+| Konto Użytkownika | Miejsce Użytkownia w Serwisie pozwalające na gromadzenie i optymalizowanie treści umieszczanych w Serwisie do własnych preferencji | 
+| Lista zakupów | Uporządkowana lista produktów, które należy zakupić w celu przygotowania dania |
+| Logowanie do serwisu | Czynność, którą musi wykonać Użytkownik, aby otrzymać pełne prawa do korzystania ze wszystkich funkcjonalności Serwisu | 
+| Porównywarka | Narzędzie pozwalające na porównanie ze sobą dwóch przepisów |
+| Produkt | Wszystko, co jest przeznaczone do spożycia lub przygotowania potraw |
+| Przepis | Uporządkowana lista czynności oraz potrzebnych składników pozwalająca na przygotowanie posiłku |
+| Serwis | Grupa powiązanych ze sobą interaktywnych stron internetowych o spójnej tematyce (kulinarnej) |
+| Rejestracja w serwisie | Inaczej założenie Konta Użytkownika, które przechowuje podane w formularzu rejestracyjnym dane oraz preferencje Użytkownika określone w trakcie korzystania z Serwisu |
+| Strona główna serwisu | Startowa strona internetowa pełniąca funkcję reprezentacyjną serwisu. Znajdują się na niej odniesienia do wszystkich funkcjonalności serwisu |
+| Wyszukiwarka | Narzędzie pozwalające na przeszukiwanie serwisu pod kątem oczekiwanej treści |
 
 ## Skrócone przypadki użycia (use cases)
 ### UC1: Wyszukiwanie przepisu na podstawie wybranych produktów - Użytkownik
