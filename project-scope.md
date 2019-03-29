@@ -134,7 +134,7 @@ Użytkownik uruchamia serwis poprzez podanie poprawnego adresu URL w przeglądar
 
 | Semestr | Zadanie do wykonania |
 | - | - |
-| I | |
+| VI | |
 | | Zakres systemu |
 | | Business Model Canvas |
 | | Zarys architektury systemu |
@@ -146,7 +146,7 @@ Użytkownik uruchamia serwis poprzez podanie poprawnego adresu URL w przeglądar
 | | Dopracowana wyszukiwarka |
 | | Refaktoryzacja kodu |
 | | Przygotowanie prezentacji na obornę |
-| II | |
+| VII | |
 | | Dopracowanie Front Endu - poprawienie funkcjonalności, dopracowanie elementów graficznych, itp. |
 | | Dołożenie pozostałych funkcjonalności serwisu, m.in.: porównywarka, jadłospisy, lista zakupów, dodawanie przepisów |
 | | Możliwość wysyłania listy zakupów, jadłospisów na maila |
