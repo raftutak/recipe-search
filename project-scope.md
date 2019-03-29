@@ -115,17 +115,27 @@ Użytkownik uruchamia serwis poprzez podanie poprawnego adresu URL w przeglądar
 
 ## Historyjki Użytkownika - User Stories
 
-### US1: Jako Użytkownik chcę wyszukiwać przepisy w serwisie
+US1: Jako Użytkownik chcę wyszukiwać przepisy w serwisie
 
-### US2: abccba
+US2: abccba
 
 ## Harmonogram prac nad serwisem
 
 ### Semestr 1
 
-| Zadanie | Priorytet |
+| Semestr 1 | |
 | - | - |
-| Stworzeie wyszukiwarki | Wysoki |
+| | Zakres systemu |
+| | Business Model Canvas |
+| | Zarys architektury systemu |
+| | Konfiguracja repozytorium Github |
+| | Wdrożenie oprogramowania do śledzenia stanu projektu (JIRA) |
+| | Dostosowanie bazy danych do naszych potrzeb |
+| | Projekt wizualny strony |
+| | Prace nad Front Endem |
+| | Dopracowana wyszukiwarka |
+
+
 
 ### Semestr 2
 
