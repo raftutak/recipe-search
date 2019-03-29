@@ -105,19 +105,19 @@ Użytkownik uruchamia serwis poprzez podanie poprawnego adresu URL w przeglądar
 ### UC9: Komentowanie przepisu - Użytkownik
 Użytkownik uruchamia serwis poprzez podanie poprawnego adresu URL w przeglądarce. Korzystając z jednej z trzech możliwości wyszukiwania przepisów (UC1/UC2/UC3) użytkownik przechodzi na stronę szczegółowego opisu przygotowania dania. Pod przepisem znajduje się sekcja komentarzy Użytkowników. Niezalogowany Użytkownik widzi komentarze innych Użytkowników oraz przycisk "Zaloguj, aby dodać opinię". Zalogowany Użytkownik widzi komentarze innych Użytkowników oraz pole do wprowadzenia własnego komentarza i przycisk "Wyślij" do zatwierdzenia go. Po wprowadzeniu komentarza i zatwierdzeniu go strona z przepisem przeładowuje się i Użytkownik może zobaczyć swój komentarz na szczycie listy komentarzy.
 
-### UC10: Tworzenie jadłospisu
+### UC10: Tworzenie jadłospisu - Użytkownik
 
-### UC11: Administracja/konserwacja serwisu, naprawa usterek
+### UC11: Administracja/konserwacja serwisu, naprawa usterek - Administrator
 
-### UC12: Zarządzanie bezpieczeństwem serwisu
+### UC12: Zarządzanie bezpieczeństwem serwisu - Administrator
 
 ### UC14: Ocena oczekujących treści - Administrator
 
 ## Historyjki Użytkownika - User Stories
 
-US1: Jako Użytkownik chcę wyszukiwać w serwisie przepisy na podstawie nazw posiadanych przeze mnie produktów.
+#### US1: Jako Użytkownik chcę wyszukiwać w serwisie przepisy na podstawie nazw posiadanych przeze mnie produktów.
 
-US2: Jako Użytkownik chcę wyszukiwać w serwisie przepisy na podstawie nazwy dania.
+##### US2: Jako Użytkownik chcę wyszukiwać w serwisie przepisy na podstawie nazwy dania.
 
 US3: Jako Użytkownik chcę wyszukiwać w serwisie przepisy w oparciu o kategorie dań (śniadanie, obiad, kolacja, itp.)
 
