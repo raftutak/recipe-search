@@ -77,7 +77,7 @@ Dla Użytkowników udostępniony zostanie system rejestracji oraz logowania. Zal
 | Strona główna serwisu | Startowa strona internetowa pełniąca funkcję reprezentacyjną serwisu. Znajdują się na niej odniesienia do wszystkich funkcjonalności serwisu |
 | Wyszukiwarka | Narzędzie pozwalające na przeszukiwanie serwisu pod kątem oczekiwanej treści |
 
-## Skrócone przypadki użycia (use cases)
+## Skrócone przypadki użycia (Use Cases)
 ### UC1: Wyszukiwanie przepisu na podstawie wybranych produktów - Użytkownik
 Użytkownik uruchamia serwis poprzez podanie poprawnego adresu URL w przeglądarce. Na stronie głównej serwisu wybiera opcję wyszukiwania na podstawie wybranych produktów za pomocą przycisku "Co ugotować". Korzystając z dostępnych kategorii oraz przypisanych do nich produktów Użytkownik zaznacza posiadane produkty oraz zatwierdza swój wybór przyciskiem "Szukaj". Serwis ładuje stronę z wynikami dopasowanymi do wybranych kryteriów. Użytkownik wybiera pożądany przepis lub za pomocą przycisku "Wstecz" wraca do poprzedniego ekranu i zawęża listę wcześniej wybranych produktów celem uzyskania większej ilości wyników wyszukiwania. Po wyborze przepisu Użytkownik zostaje przeniesiony do strony ze szczegółowym opisem przygotowania dania.
 
@@ -113,37 +113,37 @@ Użytkownik uruchamia serwis poprzez podanie poprawnego adresu URL w przeglądar
 
 ### UC14: Ocena oczekujących treści - Administrator
 
-## Historyjki Użytkownika - User Stories
+## Krótkie historyjki użytkownika (User Stories)
 
-#### US1: Jako Użytkownik chcę wyszukiwać w serwisie przepisy na podstawie nazw posiadanych przeze mnie produktów.
+##### US1: Jako Użytkownik chcę wyszukiwać w serwisie przepisy na podstawie nazw posiadanych przeze mnie produktów.
 
 ##### US2: Jako Użytkownik chcę wyszukiwać w serwisie przepisy na podstawie nazwy dania.
 
-###### US3: Jako Użytkownik chcę wyszukiwać w serwisie przepisy w oparciu o kategorie dań (śniadanie, obiad, kolacja, itp.)
+##### US3: Jako Użytkownik chcę wyszukiwać w serwisie przepisy w oparciu o kategorie dań (śniadanie, obiad, kolacja, itp.)
 
-US4: Jako Użytkownik chcę porównywać w serwisie przepisy na podstawie wybranych przeze mnie kryteriów.
+##### US4: Jako Użytkownik chcę porównywać w serwisie przepisy na podstawie wybranych przeze mnie kryteriów.
 
-US5: Jako Użytkownik chcę mieć możliwość obliczać w serwisie wartość BMI mojego ciała.
+##### US5: Jako Użytkownik chcę mieć możliwość obliczać w serwisie wartość BMI mojego ciała.
 
-US6: Jako Użytkownik chcę mieć możliwość zarejestrowania swojego konta w serwisie.
+##### US6: Jako Użytkownik chcę mieć możliwość zarejestrowania swojego konta w serwisie.
 
-US7: Jako Użytkownik chcę mieć możliwość zalogowania się do mojego konta w serwisie.
+##### US7: Jako Użytkownik chcę mieć możliwość zalogowania się do mojego konta w serwisie.
 
-US8: Jako Użytkownik chcę dodawać przepisy w serwisie.
+##### US8: Jako Użytkownik chcę dodawać przepisy w serwisie.
 
-US9: Jako Użytkownik chcę komentować i oceniać przepisy dostępne w serwisie.
+##### US9: Jako Użytkownik chcę komentować i oceniać przepisy dostępne w serwisie.
 
-US10: Jako Użytkownik chcę móc stworzyć jadłospis na cały dzień z wybranych przeze mnie przepisów.
+##### US10: Jako Użytkownik chcę móc stworzyć jadłospis na cały dzień z wybranych przeze mnie przepisów.
 
-US11: Jako Użytkownik chcę otrzymać stworzony przeze mnie jadłospis na adres e-mail.
+##### US11: Jako Użytkownik chcę otrzymać stworzony przeze mnie jadłospis na adres e-mail.
 
-US12: Jako Administrator chcę konserwować, naprawiać usterki i utrzymywać prawidłowe działanie serwisu.
+##### US12: Jako Administrator chcę konserwować, naprawiać usterki i utrzymywać prawidłowe działanie serwisu.
 
-US13: Jako Administrator chcę zarządzać bezpieczeństwem serwisu.
+##### US13: Jako Administrator chcę zarządzać bezpieczeństwem serwisu.
 
-US14: Jako Administrator chcę oceniać wartość oczekujących na akceptację treści.
+##### US14: Jako Administrator chcę oceniać wartość oczekujących na akceptację treści.
 
-## Harmonogram prac nad serwisem
+## Harmonogram prac nad serwisem z podziałem na semestry
 
 | Semestr 1 | |
 | - | - |
