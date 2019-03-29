@@ -112,3 +112,23 @@ Użytkownik uruchamia serwis poprzez podanie poprawnego adresu URL w przeglądar
 ### UC12: Zarządzanie bezpieczeństwem serwisu
 
 ### UC14: Ocena oczekujących treści - Administrator
+
+## Historyjki Użytkownika - User Stories
+
+### US1: Jako Użytkownik chcę wyszukiwać przepisy w serwisie
+
+### US2: abccba
+
+## Harmonogram prac nad serwisem
+
+### Semestr 1
+
+| Zadanie | Priorytet |
+| - | - |
+| Stworzeie wyszukiwarki | Wysoki |
+
+### Semestr 2
+
+| Zadanie | Priorytet |
+| - | - |
+| Dopracowanie Frontu | Wysoki |
