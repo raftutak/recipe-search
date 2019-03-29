@@ -121,8 +121,6 @@ US2: abccba
 
 ## Harmonogram prac nad serwisem
 
-### Semestr 1
-
 | Semestr 1 | |
 | - | - |
 | | Zakres systemu |
@@ -134,11 +132,17 @@ US2: abccba
 | | Projekt wizualny strony |
 | | Prace nad Front Endem |
 | | Dopracowana wyszukiwarka |
-
-
-
-### Semestr 2
-
-| Zadanie | Priorytet |
+| | Refaktoryzacja kodu |
+| | Przygotowanie prezentacji na obornę |
 | - | - |
-| Dopracowanie Frontu | Wysoki |
+| Semestr 2 | |
+| - | - |
+| | Dopracowanie Front Endu - poprawienie funkcjonalności, dopracowanie elementów graficznych, itp. |
+| | Dołożenie pozostałych funkcjonalności serwisu, m.in.: porównywarka, jadłospisy, lista zakupów, dodawanie przepisów |
+| | Możliwość wysyłania listy zakupów, jadłospisów na maila |
+| | Panel administracyjny |
+| | Rejestracja i logowanie |
+| | Komentarze i oceny |
+| | Kalkulatory |
+| | Refaktoryzacja kodu |
+| | Przygotowanie prezentacji na obronę |
