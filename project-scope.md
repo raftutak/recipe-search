@@ -119,7 +119,7 @@ Użytkownik uruchamia serwis poprzez podanie poprawnego adresu URL w przeglądar
 
 ##### US2: Jako Użytkownik chcę wyszukiwać w serwisie przepisy na podstawie nazwy dania.
 
-US3: Jako Użytkownik chcę wyszukiwać w serwisie przepisy w oparciu o kategorie dań (śniadanie, obiad, kolacja, itp.)
+###### US3: Jako Użytkownik chcę wyszukiwać w serwisie przepisy w oparciu o kategorie dań (śniadanie, obiad, kolacja, itp.)
 
 US4: Jako Użytkownik chcę porównywać w serwisie przepisy na podstawie wybranych przeze mnie kryteriów.
 
