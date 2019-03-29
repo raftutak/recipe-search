@@ -146,7 +146,6 @@ Użytkownik uruchamia serwis poprzez podanie poprawnego adresu URL w przeglądar
 | | Dopracowana wyszukiwarka |
 | | Refaktoryzacja kodu |
 | | Przygotowanie prezentacji na obornę |
-| | |
 | II | |
 | | Dopracowanie Front Endu - poprawienie funkcjonalności, dopracowanie elementów graficznych, itp. |
 | | Dołożenie pozostałych funkcjonalności serwisu, m.in.: porównywarka, jadłospisy, lista zakupów, dodawanie przepisów |
