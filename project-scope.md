@@ -12,13 +12,13 @@ Dla Użytkowników udostępniony zostanie system rejestracji oraz logowania. Zal
 ### Aktorzy podstawowi
 | Aktor | Opis |
 | - | - |
-| Użytkownik | Osoba korzystająca z usług udostępnianych przez serwis |
-| Administrator | Osoba zajmująca się utrzymaniem serwisu oraz zapewniająca jego sprawne działanie |
+| Użytkownik | Osoba w przedziale wiekowym 10-80 lat, korzystająca z usług udostępnianych przez serwis w celu poszerzenia swojej kulinarnej wiedzy |
+| Administrator | Przeszkolona w obsłudze serwisu osoba zajmująca się utrzymaniem serwisu oraz zapewniająca jego sprawne działanie |
 
 ### Aktorzy wspomagający
 | Aktor | Opis |
 | - | - |
-| Firma hostingowa | Firma udostępniająca usługi hostingowe |
+| Firma hostingowa | Profesjonalna firma świadcząca usługi hostingowe |
 
 ## Tabela aktor-cel
 
@@ -115,9 +115,33 @@ Użytkownik uruchamia serwis poprzez podanie poprawnego adresu URL w przeglądar
 
 ## Historyjki Użytkownika - User Stories
 
-US1: Jako Użytkownik chcę wyszukiwać przepisy w serwisie
+US1: Jako Użytkownik chcę wyszukiwać w serwisie przepisy na podstawie nazw posiadanych przeze mnie produktów.
 
-US2: abccba
+US2: Jako Użytkownik chcę wyszukiwać w serwisie przepisy na podstawie nazwy dania.
+
+US3: Jako Użytkownik chcę wyszukiwać w serwisie przepisy w oparciu o kategorie dań (śniadanie, obiad, kolacja, itp.)
+
+US4: Jako Użytkownik chcę porównywać w serwisie przepisy na podstawie wybranych przeze mnie kryteriów.
+
+US5: Jako Użytkownik chcę mieć możliwość obliczać w serwisie wartość BMI mojego ciała.
+
+US6: Jako Użytkownik chcę mieć możliwość zarejestrowania swojego konta w serwisie.
+
+US7: Jako Użytkownik chcę mieć możliwość zalogowania się do mojego konta w serwisie.
+
+US8: Jako Użytkownik chcę dodawać przepisy w serwisie.
+
+US9: Jako Użytkownik chcę komentować i oceniać przepisy dostępne w serwisie.
+
+US10: Jako Użytkownik chcę móc stworzyć jadłospis na cały dzień z wybranych przeze mnie przepisów.
+
+US11: Jako Użytkownik chcę otrzymać stworzony przeze mnie jadłospis na adres e-mail.
+
+US12: Jako Administrator chcę konserwować, naprawiać usterki i utrzymywać prawidłowe działanie serwisu.
+
+US13: Jako Administrator chcę zarządzać bezpieczeństwem serwisu.
+
+US14: Jako Administrator chcę oceniać wartość oczekujących na akceptację treści.
 
 ## Harmonogram prac nad serwisem
 
