@@ -139,6 +139,7 @@ Użytkownik uruchamia serwis poprzez podanie poprawnego adresu URL w przeglądar
 | | Business Model Canvas |
 | | Zarys architektury systemu |
 | | Konfiguracja repozytorium Github |
+| | Prototyp systemu |
 | | Wdrożenie oprogramowania do śledzenia stanu projektu (JIRA) |
 | | Dostosowanie bazy danych do naszych potrzeb |
 | | Projekt wizualny strony |
