@@ -126,9 +126,9 @@ Użytkownik uruchamia serwis poprzez podanie poprawnego adresu URL w przeglądar
 ##### US9: Jako Użytkownik chcę komentować i oceniać przepisy dostępne w serwisie.
 ##### US10: Jako Użytkownik chcę móc stworzyć jadłospis na cały dzień z wybranych przeze mnie przepisów.
 ##### US11: Jako Użytkownik chcę otrzymać stworzony przeze mnie jadłospis na adres e-mail.
-##### US12: Jako Administrator chcę konserwować, naprawiać usterki i utrzymywać prawidłowe działanie serwisu.
-##### US13: Jako Administrator chcę zarządzać bezpieczeństwem serwisu.
-##### US14: Jako Administrator chcę oceniać wartość oczekujących na akceptację treści.
+##### US12: Jako Administrator chcę mieć możliwość konserwacji, naprawiania usterek oraz utrzymywania prawidłowego działania serwisu.
+##### US13: Jako Administrator chcę mieć możliwość zarządzania bezpieczeństwem serwisu.
+##### US14: Jako Administrator chcę mieć możliwość oceniania wartości oczekujących na akceptację treści.
 
 ## Harmonogram prac nad serwisem z podziałem na semestry
 
