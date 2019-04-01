@@ -16,6 +16,11 @@ Dla Użytkowników udostępniony zostanie system rejestracji oraz logowania. Zal
 | Administrator | Przeszkolona w obsłudze serwisu osoba zajmująca się utrzymaniem serwisu oraz zapewniająca jego sprawne działanie |
 
 ### Aktorzy wspomagający
+| Aktor | Cele |
+| - | - |
+| Serwisy kulinarne | Serwisy internetowe o tematyce kulinarnej |
+
+### Aktorzy zewnętrzni
 | Aktor | Opis |
 | - | - |
 | Firma hostingowa | Profesjonalna firma świadcząca usługi hostingowe |
@@ -30,8 +35,6 @@ Dla Użytkowników udostępniony zostanie system rejestracji oraz logowania. Zal
 | | Wyszukiwanie przepisu po kategoriach |
 | | Porównywanie przepisów |
 | | Obliczanie wartości BMI |
-| | Rejestracja w serwisie |
-| | Logowanie do serwisu |
 | | Dodawanie przepisu |
 | | Komentowanie przepisu |
 | | Tworzenie jadłospisu |
@@ -42,6 +45,11 @@ Dla Użytkowników udostępniony zostanie system rejestracji oraz logowania. Zal
 ### Aktorzy wspomagający
 | Aktor | Cele |
 | - | - |
+| Serwisy kulinarne | Udostępnianie przepisów kulinarnych do bazy danych naszego serwisu |
+
+### Aktorzy zewnętrzni
+| Aktor | Cele |
+| - | - |
 | Firma hostingowa | Udostępnianie usług hostingowych |
 
 ## Lista IN-OUT
@@ -49,7 +57,7 @@ Dla Użytkowników udostępniony zostanie system rejestracji oraz logowania. Zal
 | - | - | - |
 | Typ aplikacji | Webowa | Mobilna |
 | Język systemu | Polski | Pozostałe |
-| Baza danych | Dynamiczna | Statyczna |
+| Baza danych | Dynamiczna (możliwość dodawania danych do bazy) | Statyczna (brak możliwości dodawania danych do bazy) |
 | Wyszukiwanie | Na podstawie produktów | Pozostałe |
 | | Po nazwie przepisu | |
 | | Po kategoriach | |
@@ -92,12 +100,6 @@ Użytkownik uruchamia serwis poprzez podanie poprawnego adresu URL w przeglądar
 
 ### UC5: Obliczanie wartości BMI - Użytkownik
 Użytkownik uruchamia serwis poprzez podanie poprawnego adresu URL w przeglądarce. Na stronie głównej serwisu wybiera opcję obliczania wartości BMI za pomocą przycisku "Kalkulator BMI". Użytkownik zostaje przeniesiony na stronę z prostym Kalkulatorem BMI. Użytkownik podaje swoją płeć, wagę oraz wzrost i zatwierdza te dane za pomocą przycisku "Oblicz". Następnie zostaje przeniesiony na stronę z wynikami zwróconymi przez algorytm obliczający wartość BMI oraz z sugerowanymi działaniami, o ile jakiekolwiek są rekomendowane.
-
-### UC6: Rejestracja w serwisie - Użytkownik
-Użytkownik uruchamia serwis poprzez podanie poprawnego adresu URL w przeglądarce. Z poziomu strony głównej oraz każdej innej podstrony może wybrać opcję "Rejestracja". Po wybraniu tej opcji zostaje przeniesiony do ekranu z formularzem rejestracyjnym, który musi uzupełnić uwzględniając wymagane pola (imię, adres email, hasło, potwierdzenie hasła, checkbox potwierdzający akceptację warunków użytkowania serwisu). Użytkownik zatwierdza podane dane za pomocą przycisku "Zarejestruj". Po rejestracji Użytkownik jest automatycznie zalogowany i przeniesiony do strony głównej serwisu. Zalogowany Użytkownik może korzystać z pełnej funkcjonalności serwisu lub też wylogować się z niego za pomocą przycisku "Wyloguj" dostępnego z poziomu strony głównej oraz każdej innej podstrony serwisu.
-
-### UC7: Logowanie do serwisu - Użytkownik
-Użytkownik uruchamia serwis poprzez podanie poprawnego adresu URL w przeglądarce. Z poziomu strony głównej oraz każdej innej podstrony może wybrać opcję "Logowanie". Po wybraniu tej opcji zostaje przeniesiony do ekranu z formularzem logowania, który musi uzupełnić uwzględniając wymagane pola (adres email, hasło). Użytkownik zatwierdza podane dane za pomocą przycisku "Zaloguj". Po udanym zalogowaniu Użytkownik jest automatycznie przeniesiony do strony głównej serwisu. Zalogowany Użytkownik może korzystać z pełnej funkcjonalności serwisu lub też wylogować się z niego za pomocą przycisku "Wyloguj" dostępnego z poziomu strony głównej oraz każdej innej podstrony.
 
 ### UC8: Dodawanie przepisu - Użytkownik
 Użytkownik uruchamia serwis poprzez podanie poprawnego adresu URL w przeglądarce. Z poziomu strony głównej oraz każdej innej podstrony może wybrać opcję "Dodaj przepis". Po wybraniu tej opcji, jeśli Użytkownik jest zalogowany, zostaje przeniesiony do strony dodawania przepisu. Jeśli Użytkownik jest niezalogowany, zostaje przeniesiony do strony logowania. Jeśli Użytkownik nie posiada konta w serwisie, z poziomu strony logowania może wybrać opcję "Rejestracja" po czym zostanie przeniesiony do formularza rejestracji. Po zalogowaniu lub rejestracji Użytkownik zostaje przeniesiony do pożądanej strony dodawania przepisu. Użytkownik wypełnia widoczny formularz dodawania przepisu i zatwierdza wprowadzone dane przyciskiem "Dodaj". Przepis zostaje zapisany w kolejce oczekujących na akceptację i oczekuje na zweryfikowanie przez Administratora.
