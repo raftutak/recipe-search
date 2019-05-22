@@ -26,7 +26,7 @@ header {
     height: 58%;
     background-color: rgb(30, 45, 66);
     background-image: url(img/bg-header.png);
-    color: yellowgreen;
+    color: rgb(154, 205, 50);
 }
 
 div.wrapper {
@@ -67,19 +67,27 @@ ul li a:hover {
 .search-bar input {
     border-radius: 25px;
     padding: 3px 20px;
-    border: 2px solid lightblue;
+    border: 2px solid rgb(154, 205, 50);
     transition: 0.3s;
     font-family: 'Glegoo', serif;
     font-weight: 700;
 }
 
 .search-bar input:focus {
-    box-shadow: 0 0 5px rgba(81, 203, 238, 1);
-    border: 2px solid rgba(81, 203, 238, 1);
+    box-shadow: 0 0 5px rgba(154, 205, 50, 1);
+    border: 2px solid rgba(154, 205, 50, 1);
     outline: none;
 }
 
+img.pan {
+    position: absolute;
+    top: -110px;
+    right: -140px;
+    width: 60%;
+}
+
 div .slider {
+    position: relative;
     padding-top: 50px;
 }
 
@@ -143,10 +151,11 @@ section.last-added {
 }
 
 .main-search {
+    color: rgb(154, 205, 50);
     font-size: 24px;
     border-radius: 25px;
     padding: 10px 30px;
-    border: 2px solid lightblue;
+    border: 2px solid rgb(154, 205, 50);
     transition: 0.3s;
     font-family: 'Glegoo', serif;
     font-weight: 700;
@@ -154,8 +163,8 @@ section.last-added {
 }
 
 .main-search:focus {
-    box-shadow: 0 0 15px 5px rgba(81, 203, 238, 1);
-    border: 2px solid rgba(81, 203, 238, 1);
+    box-shadow: 0 0 15px 5px rgba(154, 205, 50, 1);
+    border: 2px solid rgba(154, 205, 50, 1);
     outline: none;
 }
 
