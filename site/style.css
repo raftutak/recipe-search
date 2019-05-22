@@ -56,7 +56,8 @@ ul li a {
 
 ul li a:hover {
     color: white;
-    text-decoration: underline;
+    padding-bottom: 3px;
+    border-bottom: 1px solid white;
 }
 
 .search-bar {
@@ -133,10 +134,29 @@ section.last-added {
 }
 
 .last-added div.wrapper {
+    padding-top: 60px;
+    text-align: center;
     min-height: 20vh;
     background-color: white;
     padding-left: 30px;
     padding-right: 30px;
+}
+
+.main-search {
+    font-size: 24px;
+    border-radius: 25px;
+    padding: 10px 30px;
+    border: 2px solid lightblue;
+    transition: 0.3s;
+    font-family: 'Glegoo', serif;
+    font-weight: 700;
+    width: 50%;
+}
+
+.main-search:focus {
+    box-shadow: 0 0 15px 5px rgba(81, 203, 238, 1);
+    border: 2px solid rgba(81, 203, 238, 1);
+    outline: none;
 }
 
 section.create-list {
