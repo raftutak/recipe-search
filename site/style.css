@@ -1,0 +1,200 @@
+@import url('https://fonts.googleapis.com/css?family=Glegoo:400,700|Staatliches&display=swap');
+
+/*
+font-family: 'Staatliches', cursive;
+font-family: 'Glegoo', serif;
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.clearfix {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+body {
+    height: 100vh;
+    font-family: 'Glegoo', serif;
+}
+
+header {
+    height: 58%;
+    background-color: rgb(30, 45, 66);
+    background-image: url(img/bg-header.png);
+    color: yellowgreen;
+}
+
+div.wrapper {
+    margin: 0 auto;
+    width: 80vw;
+    max-width: 1500px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.top-nav {
+    width: 95%;
+}
+
+.top-nav ul li {
+    list-style: none;
+    padding-right: 20px;
+    float: left;
+}
+
+ul li a {
+    text-decoration: none;
+    color: yellowgreen;
+    transition: 0.3s;
+}
+
+ul li a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+.search-bar {
+    float: right;
+}
+
+.search-bar input {
+    border-radius: 25px;
+    padding: 3px 20px;
+    border: 2px solid lightblue;
+    transition: 0.3s;
+    font-family: 'Glegoo', serif;
+    font-weight: 700;
+}
+
+.search-bar input:focus {
+    box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+    border: 2px solid rgba(81, 203, 238, 1);
+    outline: none;
+}
+
+div .slider {
+    padding-top: 50px;
+}
+
+div .slider p {
+    font-family: 'Staatliches', cursive;
+    padding-bottom: 15px;
+}
+
+.slider p:nth-of-type(1) {
+    font-size: 40px;
+    letter-spacing: 3px;
+}
+
+.slider p:nth-of-type(2) {
+    font-size: 60px;
+    letter-spacing: 3px;
+}
+
+.slider p:nth-of-type(3) {
+    font-size: 40px;
+    letter-spacing: 3px;
+    margin-bottom: 20px;
+}
+
+button {
+    color: white;
+    background-color: rgb(13, 26, 43);
+    font-size: 20px;
+    border-radius: 25px;
+    padding: 8px 40px;
+    border: none;
+    transition: 0.3s;
+    font-family: 'Glegoo', serif;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+button:hover {
+    color: rgb(13, 26, 43);
+    background-color: white;
+    font-weight: 700;
+}
+
+button:focus {
+    box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+    outline: none;
+}
+
+section.last-added {
+    min-height: 20vh;
+    background-color: rgb(240, 240, 240);
+}
+
+.last-added div.wrapper {
+    min-height: 20vh;
+    background-color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+section.create-list {
+    min-height: 40vh;
+    background-image: url(img/create-list.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+section.create-list div.bgcolor {
+    min-height: 40vh;
+    background-color: rgba(9, 22, 41, 0.7);
+}
+
+.create-list p {
+    font-family: 'Staatliches', cursive;
+    padding-bottom: 15px;
+}
+
+.create-list p:nth-of-type(1) {
+    padding-top: 50px;
+    color: white;
+    font-size: 40px;
+    letter-spacing: 3px;
+}
+
+.create-list p:nth-of-type(2) {
+    color: yellowgreen;
+    font-size: 60px;
+    letter-spacing: 3px;
+}
+
+section.who-are-we {
+    min-height: 20vh;
+    background-color: rgb(240, 240, 240);
+}
+
+.who-are-we div.wrapper {
+    min-height: 20vh;
+    background-color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: justify;
+    padding-bottom: 30px;
+}
+
+footer {
+    min-height: 9vh;
+    background-color: rgb(30, 45, 66);
+    color: white;
+}
+
+footer div.wrapper {
+    min-height: 9vh;
+}
+
+.footer-links p {
+    padding-right: 20px;
+    float: left;
+}
